@@ -1,0 +1,1 @@
+ web: gunicorn portail_decisionnel-master.wsgi

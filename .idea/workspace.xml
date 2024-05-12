@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60889f8d-9128-4e24-93d2-06a2c4226e04" name="Changes" comment="full commit...templ">
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/traitement.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/traitement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="WARN_ABOUT_LARGE_FILES_LIMIT_MB" value="70" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/portal7554618/portal.git&quot;,
+    &quot;second&quot;: &quot;b3232b61-ecef-4725-9c34-3841ffc06315&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="E:\intelliji\plugins\maven\lib\maven3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2g5xNt0EVGWq64UvGRwsB41dRxz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admins/Downloads/portail_decisionnel-master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "build.tools",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60889f8d-9128-4e24-93d2-06a2c4226e04" name="Changes" comment="" />
+      <created>1715001208474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715001208474</updated>
+      <workItem from="1715001210745" duration="1209000" />
+      <workItem from="1715002442579" duration="8569000" />
+      <workItem from="1715525672112" duration="2218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
