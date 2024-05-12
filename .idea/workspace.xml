@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60889f8d-9128-4e24-93d2-06a2c4226e04" name="Changes" comment="full commit...templ">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portail_decisionnel-master" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/apps.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portail_decisionnel-master/untitled/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/portail_decisionnel-master/portail_decisionnel-master/asgi.py" afterDir="false" />
@@ -59,7 +61,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "build.tools",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -81,7 +83,7 @@
       <updated>1715001208474</updated>
       <workItem from="1715001210745" duration="1209000" />
       <workItem from="1715002442579" duration="8569000" />
-      <workItem from="1715525672112" duration="2218000" />
+      <workItem from="1715525672112" duration="12317000" />
     </task>
     <servers />
   </component>
